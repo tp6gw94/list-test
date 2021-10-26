@@ -1,0 +1,19 @@
+{
+  "records": [
+    {
+      "id": "1",
+      "name": "Aeon xxx Ko",
+      "status": 0,
+      "appliedBy": [
+        "asa",
+        "ccc"
+      ]
+    },
+    {
+      "name": "asdfzxcv",
+      "status": 1,
+      "appliedBy": [],
+      "id": "bbMbNpk"
+    }
+  ]
+}
